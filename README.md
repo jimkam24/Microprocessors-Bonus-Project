@@ -16,7 +16,7 @@ This project implements and tests several LeNet-5 neural network architectures o
 
 The project demonstrates how deep learning models can be deployed on resource-constrained embedded systems, highlighting the trade-off between accuracy and efficiency when running on microcontrollers. 
 
-###Team:
+### Team:
 
 Kampanakis Dimitrios
 

@@ -18,6 +18,6 @@ The project demonstrates how deep learning models can be deployed on resource-co
 
 Team:
 
-Kampanakis Dimitrios
-Spyropoylos Charalambos
+Kampanakis Dimitrios \\
+Spyropoylos Charalambos \\
 Gkekas Georgios

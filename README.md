@@ -20,6 +20,6 @@ The project demonstrates how deep learning models can be deployed on resource-co
 
 Kampanakis Dimitrios
 
-Spyropoylos Charalambos
+Spyropoulos Charalambos
 
 Gkekas Georgios
